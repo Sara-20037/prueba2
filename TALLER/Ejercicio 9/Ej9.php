@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<form action="ejercicio8.php" method="post">
+<form action="ejercicio9.php" method="get">
         <label for="">Nombre del estudiante</label><input type="text" name="Nombre">
         <label for="">Materia</label><input type="text" name="Materia">
         <label for="">Examen 1</label><input type="text" name="Exam1">
