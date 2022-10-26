@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="ejercicio11.php" method="post">
-        <label for="">Valor</label><input type="text" name="Val">
+        <label for="">Costo</label><input type="text" name="Costo">
         <input type="submit" name="Enviar" value="Enviar">
     </form>
 </body>
