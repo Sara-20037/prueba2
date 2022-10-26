@@ -11,7 +11,7 @@ $fin1 = $examen1 * $porcentaje1;
 $fin2 = $examen2 * $porcentaje2;
 $fin3 = $examen3 * $porcentaje3;
 
-if () {
+if ('') {
 
    
 }
