@@ -1,12 +1,9 @@
 <?php
+$Vpro = $_POST['Costo'];
+$Prvender = $Vpro + ($Vpro * 0.15);
 
-    $Valpago = $_POST['Val'];
-    $precio = $Valpago-($Valpago*0.2);
+if($Vpro){
+    echo "Se vendió por: ".$Prvender;
+}
 
-    if($Valpago>=20000){
-        echo "Total a pagar: ".$precio;    
-        }else{
-            echo "Total a pagar: ".$Valpago;  
-    }
-    
 ?>
